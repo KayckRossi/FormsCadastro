@@ -56,9 +56,8 @@ body {
     background-color: #2f2841;
     padding: 3rem;
     border-radius: 0px 25px 25px 0px;
-    box-shadow: 0px 10px 40px #00000056
+    box-shadow: 0px 10px 40px #00ff88;
 }
-
 .form-header {
     margin-top: 0.15rem;/*aqui sobe o form header todo */
     display: flex;
